@@ -1,0 +1,3 @@
+node "prueba.com" {
+  asasa
+}
